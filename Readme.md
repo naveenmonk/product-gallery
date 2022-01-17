@@ -1,4 +1,4 @@
 # Product Images gallery
 
 
-# Live demo: 
+# Live demo: https://naveenmonk.github.io/product-gallery/
